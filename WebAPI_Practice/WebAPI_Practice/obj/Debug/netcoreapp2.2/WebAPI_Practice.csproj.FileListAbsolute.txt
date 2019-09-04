@@ -1,0 +1,14 @@
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\bin\Debug\netcoreapp2.2\WebAPI_Practice.deps.json
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\bin\Debug\netcoreapp2.2\WebAPI_Practice.runtimeconfig.json
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\bin\Debug\netcoreapp2.2\WebAPI_Practice.runtimeconfig.dev.json
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\bin\Debug\netcoreapp2.2\WebAPI_Practice.dll
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\bin\Debug\netcoreapp2.2\WebAPI_Practice.pdb
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.csprojAssemblyReference.cache
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.csproj.CoreCompileInputs.cache
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.RazorAssemblyInfo.cache
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.RazorAssemblyInfo.cs
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.AssemblyInfoInputs.cache
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.AssemblyInfo.cs
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.RazorTargetAssemblyInfo.cache
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.dll
+C:\Users\cserey.levente\source\repos\WebAPI_Practice\WebAPI_Practice\obj\Debug\netcoreapp2.2\WebAPI_Practice.pdb
