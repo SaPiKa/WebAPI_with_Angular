@@ -1,0 +1,10 @@
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand text-white">JWT Auth Project</a>
+  <button
+    class="btn btn-danger my-2 my-sm-0"
+    (click)="onLogout()"
+    *ngIf="isLogged()"
+  >
+    Logout
+  </button>
+</nav>
